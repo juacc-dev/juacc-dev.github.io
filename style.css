@@ -69,7 +69,7 @@ a:hover {
     max-width: 540px;
     width: 100%;
     height: 270px;
-    background-image: url("/nh.png");
+    background-image: url("./nh.png");
     background-position: center;
     image-rendering: pixelated;
     image-rendering: -moz-crisp-edges;
