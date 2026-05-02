@@ -32,9 +32,8 @@ html {
 
 body {
     max-width: 540px;
-    text-decoration: none;
     margin: auto;
-    font-family: Georgia;
+    font-family: Georgia, serif;
     font-size: 13pt;
     padding: 1rem;
 }
@@ -73,13 +72,19 @@ a:hover {
 
 .title_image {
     image-rendering: pixelated;
+    width: 540px;
+    height: 270px;
+
+}
+
+.pixel {
+    image-rendering: pixelated;
 }
 
 .title {
     display: flex;
     align-items: center;
     text-decoration: none;
-    font-family: "Noto Sans Serif";
     font-size: 20pt;
     font-weight: bold;
     padding-top: 2rem;
