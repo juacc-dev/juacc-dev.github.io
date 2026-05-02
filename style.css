@@ -28,6 +28,7 @@ html {
     color: var(--fg);
     background-color: var(--bg);
     color-scheme: dark;
+    max-width: 540px;
 }
 
 body {
