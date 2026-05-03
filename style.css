@@ -71,20 +71,14 @@ a:hover {
     height: 270px;
     background-image: url("/nh.png");
     background-position: center;
-    image-rendering: pixelated;
-    image-rendering: -moz-crisp-edges;
-    image-rendering: crisp-edges;
 }
 
 .pixel {
     image-rendering: pixelated;
     image-rendering: -moz-crisp-edges;
-    image-rendering: crisp-edges;
 }
 
 .title {
-    display: flex;
-    align-items: center;
     text-decoration: none;
     font-size: 20pt;
     font-weight: bold;
@@ -98,14 +92,4 @@ a:hover {
     padding-bottom: 4rem;
     padding-top: 1rem;
     text-align: justify;
-}
-
-.footer {
-    padding: 2rem;
-    font-size: 1rem;
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    gap: 1rem;
-    border-top: 1px solid var(--fg);
 }

@@ -1,0 +1,24 @@
+html {
+    font-family: Georgia, serif;
+    color: #f9f5d7;
+    background-color: #000000;
+}
+
+body {
+    margin: auto;
+    padding: auto;
+    align-items: center;
+}
+
+.container {
+    padding-top: 30vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 1rem;
+}
+
+
+.carpincho {
+    image-rendering: pixelated;
+}
