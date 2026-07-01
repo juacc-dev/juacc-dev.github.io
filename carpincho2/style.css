@@ -8,6 +8,7 @@ body {
     margin: auto;
     padding: auto;
     align-items: center;
+    max-width: 95vw;
 }
 
 .container {
@@ -21,4 +22,5 @@ body {
 
 .carpincho {
     max-height: 80vh;
+    max-width: 90vw;
 }
