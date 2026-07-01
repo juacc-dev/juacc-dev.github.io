@@ -20,5 +20,5 @@ body {
 
 
 .carpincho {
-    image-rendering: pixelated;
+    max-height: 80vh;
 }
